@@ -1,0 +1,14 @@
+Derick Warshaw // Lab 13 // 1337
+
+
+
+Owner
+----------------
+-ownerName:String
+-ownerPhone:String
+----------------
++Owner(objectCopy:Owner)
++copy():Owner
++toString():String
++equals(object2:Owner):boolean
+

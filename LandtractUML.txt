@@ -1,0 +1,16 @@
+Derick Warshaw // Lab 13 // 1337
+
+
+
+Landtract
+----------------
+-landLength:double
+-landWidth:double
+-owner:Owner
+----------------
++Landtract(inputLength:double, inputWidth:double, inputOwner:Owner)
++copy():Landtract
++getArea():double
++toString():String
++equals(object2:Landtract):boolean
+
